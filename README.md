@@ -6,3 +6,5 @@ The Modern Architecture Cadre (TMAC) is an agile and streamlined method focused 
 The TMAC is a highly iterative and adaptive process that can be applied to develop future state architectures for individual functional segments in the business (i.e. supply chain, product lifecycle management) or to enterprise architecture domains (business, data, applications, technology infrastructure, security, privacy and governance). 
 
 The purpose of taking an agile approach to architecture is to ensure that enterprises are never making assumptions that can not be achieved, provides the ability to course-correct when required, and are able to arrive at the desired future state in the most effective and efficient manner. 
+
+(in progress)
