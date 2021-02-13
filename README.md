@@ -1,4 +1,4 @@
-# The-Modern-Architecture-Cadre
+# Simplified-Enterprise-Architecture-Framework
 The Modern Architecture Cadre
 
 The Modern Architecture Cadre is an agile and streamlined method focused on creating future state architectures for information-driven organizations that are aiming to become a digital enterprise. It was developed using an agile architecture mindset where all activities and process steps were oriented towards delivering business value quickly and repeatedly.  The framework acts as an enabler for change management programs that are focused on aligning business operations and infrastructure (i.e. people, process and technology) with the business mission and strategy.  
